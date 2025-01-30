@@ -47,5 +47,5 @@ This project encourages users to cherish their gift-related memories while showc
 
 ### Why This Project? 
 
-Gift Memories is an application that marries technical knowledge with creativity. It offers the opportunity to develop a full-stack application using React and Node.js, implement and test secure authentication systems, design and deploy a scalable and user-friendly application, and gain hands-on experience with database operations and API development.
+Gift Memories is an application that marries technical knowledge with creativity. It offers the opportunity to develop a full-stack application using React and Node.js, implement and test secure authentication systems, design and deploy a scalable and user-friendly application, and gain hands-on experience with database operations and API development made.
 
