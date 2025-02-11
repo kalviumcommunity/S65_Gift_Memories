@@ -1,0 +1,11 @@
+{
+  "name": "s65_gift_memories",
+  "version": "1.0.0",
+  "description": "Gift Memories: Dynamic Gift Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
